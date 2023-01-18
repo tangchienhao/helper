@@ -1,5 +1,6 @@
 {
     "name": "chtang/helper",
+    "description": "Helper 此套件為個人專用，請勿於正式環境直接下載使用。",
     "type": "library",
     "license": "MIT",
     "authors": [
