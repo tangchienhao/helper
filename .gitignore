@@ -3,6 +3,9 @@
 composer.lock
 composer.phar
 
+# php-cs-fixer
+.php-cs-fixer.cache
+
 # phpstorm
 .idea/
 
